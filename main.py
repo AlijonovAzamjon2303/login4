@@ -1,7 +1,7 @@
 import services
 menu = """
-1. Ro'yxatdan o'ting
-2. Kirish
+1. sign up
+2. log in
 """
 while True:
     print(menu)
