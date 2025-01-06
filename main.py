@@ -1,6 +1,6 @@
 import services
 menu = """
-1. Ro'yxatdan o'tish
+1. Ro'yxatdan o'ting
 2. Kirish
 """
 while True:
